@@ -24,4 +24,4 @@ A screenshot of the application when opened in Google Chrome can be seen below:
 This screenshot is as of 1/19/2023 at 12:47AM CST, will add updated screenshot(s) if any further adjustments are made.
 
 A link to the deployed application can be found below:
-LINK TBA
+https://jmabie94.github.io/1-18-23-jquery-workday-scheduler/
