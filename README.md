@@ -25,3 +25,5 @@ This screenshot is as of 1/19/2023 at 12:47AM CST, will add updated screenshot(s
 
 A link to the deployed application can be found below:
 https://jmabie94.github.io/1-18-23-jquery-workday-scheduler/
+
+Made a mistake when doing my last commit of the README to the origin/main, adding a new line of text here so that I can do a new commit with a proper title (first time I got stuck in a commit -m" > > > > > > loop and didn't know how to escape, accidentally saved the commit as "ASDF" lol)
